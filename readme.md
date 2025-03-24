@@ -1,4 +1,5 @@
-![csfloat logo](https://csfloat.com/assets/n-mini-logo.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Integration: CSFloat.com](https://img.shields.io/badge/Integration-csfloat.com-gray.svg)](https://csfloat.com/assets/n-mini-logo.png)
 
 this script fetches trade data from the csfloat api and exports it to csv files. it creates two csv files:
 
