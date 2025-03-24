@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://csfloat.com/assets/n-mini-logo.png" width="150">
 </p>
 
