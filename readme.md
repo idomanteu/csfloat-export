@@ -1,6 +1,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Integration: CSFloat.com](https://img.shields.io/badge/Integration-csfloat.com-gray.svg)](https://csfloat.com/assets/n-mini-logo.png)
 
+<p align="center">
+  <img src="https://csfloat.com/assets/n-mini-logo.png" width="150">
+</p>
+
 this script fetches trade data from the csfloat api and exports it to csv files. it creates two csv files:
 
 - `csfloat_purchases.csv`: contains purchases (buyer role)
@@ -16,6 +20,8 @@ each csv contains the following columns:
 - csfloat transaction id
 
 ## the output!
+
+<img width="916" alt="csfloat csv output" src="https://github.com/user-attachments/assets/1aa60422-0a77-4d15-8f2e-29ebe5741169" />
 
 ## getting started
 
