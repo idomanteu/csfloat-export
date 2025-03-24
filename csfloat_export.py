@@ -31,7 +31,7 @@ load_dotenv()
 # constants
 STEAM_ID = os.getenv('STEAM_ID')
 API_KEY = os.getenv('API_KEY')
-RATE_LIMIT = 30  # wait 2 minutes between api requests :)
+RATE_LIMIT = 120  # wait 2 minutes between api requests :)
 
 
 def safe_float(value, default=None) -> Optional[float]:
