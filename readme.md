@@ -1,7 +1,6 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Integration: CSFloat.com](https://img.shields.io/badge/Integration-csfloat.com-gray.svg)](https://csfloat.com/assets/n-mini-logo.png)
-
 <p align="center">
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![Integration: CSFloat.com](https://img.shields.io/badge/Integration-csfloat.com-gray.svg)](https://csfloat.com/assets/n-mini-logo.png)
   <img src="https://csfloat.com/assets/n-mini-logo.png" width="150">
 </p>
 
