@@ -65,5 +65,5 @@ this project is licensed under the mit license - see the [license](license) file
 
 ## acknowledgments
 
-- created by [@loz.tf](https://github.com/idomanteu)
+- created by loz
 - csfloat team for allowing api usage and creating a great marketplace :)
