@@ -61,7 +61,7 @@ run the script - it will fetch your trades and export them to the specified csv 
 
 ## license
 
-this project is licensed under the mit license - see the [license](license) file for details.
+this project is licensed under the [mit license](LICENSE).
 
 ## acknowledgments
 
